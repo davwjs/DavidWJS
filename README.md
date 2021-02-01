@@ -19,4 +19,8 @@
 #### Coding Stats
  
  <!--START_SECTION:waka-->
- <!--END_SECTION:waka-->
+```text
+Markdown   13 mins         ██████████████████░░░░░░░   71.68 % 
+YAML       5 mins          ███████░░░░░░░░░░░░░░░░░░   28.32 % 
+```
+<!--END_SECTION:waka-->
